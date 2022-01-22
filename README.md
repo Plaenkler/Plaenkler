@@ -3,11 +3,11 @@
 
 **About me**
 
-- 💼 Engineer/Supporter at [LaKiS](https://www.lakis.nrw)
+- 💼 Engineer/Supporter at [LaKiS](https://www.lakis.nrw) & [Avanis](https://www.avanis.de)
 
-- 📈 Built E-paper display solutions, Web and desktop applications on GitHub
+- 📈 I Built IoT solutions, Web and desktop applications
 
-- ❤️ I love writing Python and Java, and building gadgets with ESP8266/32-C3
+- ❤️ I love writing Python and building gadgets with ESP82/32
 
 - 💬 Ask me about anything [here](https://github.com/Plaenkler/Plaenkler/issues)
 
