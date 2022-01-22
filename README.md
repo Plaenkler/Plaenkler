@@ -5,7 +5,7 @@
 
 - 💼 Engineer/Supporter at [LaKiS](https://www.lakis.nrw) & [Avanis](https://www.avanis.de)
 
-- 📈 I Built IoT solutions, Web and desktop applications
+- 📈 I build IoT solutions, web and desktop applications
 
 - ❤️ I love writing Python and building gadgets with ESP82/32
 
