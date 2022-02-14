@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Engineer/Supporter at [LaKiS](https://www.lakis.nrw) & [Avanis](https://www.avanis.de)
+- 💼 Engineer/Supporter at [LaKiS](https://github.com/LaKiS-GbR) & [Avanis](https://www.avanis.de)
 
 - 📈 I build IoT solutions, web and desktop applications
 
