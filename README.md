@@ -7,7 +7,7 @@
 
 - 📈 I build IoT solutions, web and desktop applications
 
-- ❤️ I love writing Python and building gadgets with ESP82/32
+- ❤️ I love writing Python, Golang and C++
 
 - 💬 Ask me about anything [here](https://github.com/Plaenkler/Plaenkler/issues)
 
