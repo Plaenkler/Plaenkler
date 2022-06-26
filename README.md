@@ -1,15 +1,13 @@
-### Hi there 👋
+### No cookies here 👋🍪
 
 
-**About me**
+**A little bite from me:**
 
-- 💼 Engineer/Supporter at [LaKiS](https://github.com/LaKiS-GbR) & [Avanis](https://www.avanis.de)
+- 💼 Founder of [LaKiS GbR](https://github.com/LaKiS-GbR) & supporter at [Avanis GmbH](https://github.com/Avanis-GmbH)
 
-- 📈 I build IoT solutions, web and desktop applications
+- ❤️ I love open source software projects
 
-- ❤️ I love writing Python, Golang and C++
-
-- 💬 Ask me about anything [here](https://github.com/Plaenkler/Plaenkler/issues)
+- 💬 For all kind of inquiries you can write me [here](https://github.com/Plaenkler/Plaenkler/issues)
 
 
 **Languages:**  
