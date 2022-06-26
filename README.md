@@ -5,7 +5,7 @@
 
 - 💼 Founder of [LaKiS GbR](https://github.com/LaKiS-GbR) & supporter at [Avanis GmbH](https://github.com/Avanis-GmbH)
 
-- ❤️ I love open source software projects
+- ❤️ I love to contribute to open source software
 
 - 💬 For all kind of inquiries you can write me [here](https://github.com/Plaenkler/Plaenkler/issues)
 
