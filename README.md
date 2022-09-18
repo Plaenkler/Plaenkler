@@ -9,6 +9,8 @@
 
 - 💬 For all kind of inquiries you can write me [here](https://github.com/Plaenkler/Plaenkler/issues)
 
+- 🌐 For news, tips and tutorials visit my [blog](https://plaenkler.github.io/Blog/)
+
 
 **Languages:**  
 
