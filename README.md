@@ -32,4 +32,4 @@
   <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png">
 </span><br><br>
 
-<img height="20" src="https://komarev.com/ghpvc/?username=Plaenkler">
+<img height="20" align="right" src="https://komarev.com/ghpvc/?username=Plaenkler">
