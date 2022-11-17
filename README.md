@@ -32,4 +32,13 @@
   <img height="30" src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/img/gitea.svg">
 </span><br><br>
 
+**Colors:**
+
+<span>
+  <img height="20" src="https://img.shields.io/badge/343A40-343A40.svg">
+  <img height="20" src="https://img.shields.io/badge/FFFFFF-FFFFFF.svg">
+  <img height="20" src="https://img.shields.io/badge/0069D9-0069D9.svg">
+  <img height="20" src="https://img.shields.io/badge/339933-339933.svg">
+</span><br><br>
+
 <img height="20" align="right" src="https://komarev.com/ghpvc/?username=Plaenkler">
