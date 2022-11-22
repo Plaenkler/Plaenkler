@@ -40,5 +40,3 @@
   <img height="20" src="https://img.shields.io/badge/0069D9-0069D9.svg">
   <img height="20" src="https://img.shields.io/badge/339933-339933.svg">
 </span><br><br>
-
-<img height="20" align="right" src="https://komarev.com/ghpvc/?username=Plaenkler">
