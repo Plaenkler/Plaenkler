@@ -29,7 +29,7 @@
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png">
   <img height="30" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png">
-  <img height="30" src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/img/gitea.svg">
+  <img height="30" src="https://raw.githubusercontent.com/go-gitea/gitea/main/public/assets/img/gitea.svg">
 </span><br><br>
 
 **Colors:**
