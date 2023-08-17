@@ -6,9 +6,9 @@
 
 - ❤️ I love to contribute to open source software
 
-- 💬 For all kind of inquiries you can write me [here](https://www.lukastech.de/kontakt/)
+- 💬 For all kind of inquiries you can write me [here](mailto:info@plaenkler.com)
 
-- 🌐 **For news, tips and tutorials visit my [blog](https://plaenkler.github.io/Blog/)**
+- 🌐 For topics that awakened my inner author visit my [blog](https://plaenkler.github.io/Blog/)
 
 **Languages:**
 
