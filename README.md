@@ -4,7 +4,7 @@
 
 - 💼 Founder of [LaKiS GbR](https://github.com/LaKiS-GbR) & supporter at [Avanis GmbH](https://github.com/Avanis-GmbH)
 
-- ❤️ I love to contribute to open source software
+- ❤️ I love open source software, [Go](https://go.dev/) and [Arduino (ESP32)](https://www.arduino.cc/reference/en/)
 
 - 💬 For all kind of inquiries you can write me [here](mailto:info@plaenkler.com)
 
