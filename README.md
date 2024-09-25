@@ -8,8 +8,6 @@
 
 - 💬 For all kind of inquiries you can write me [here](mailto:info@plaenkler.com)
 
-- 🌐 For topics that awakened my inner author visit my [blog](https://plaenkler.github.io/Blog/)
-
 **Languages:**
 
 <span>
