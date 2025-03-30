@@ -2,7 +2,7 @@
 
 **A little bite from me:**
 
-- 💼 IT-Security Consultant at [2F-IT GmbH](https://2f-it.de/) & Founder of [LaKiS GbR](https://github.com/LaKiS-GbR)
+- 💼 IT-Security Consultant at [2F-IT GmbH](https://2f-it.de/) & Co-Founder of [LaKiS GbR](https://github.com/LaKiS-GbR)
 
 - ❤️ I love open source software, [Go](https://go.dev/) and [Arduino (ESP32)](https://www.arduino.cc/reference/en/)
 
