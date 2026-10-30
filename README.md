@@ -8,6 +8,8 @@
 
 - 💬 For all kind of inquiries you can write me [here](mailto:info@plaenkler.com)
 
+> Btw, everything listed below I mastered before the AI era ))
+
 **Languages:**
 
 <span>
